@@ -1,6 +1,6 @@
 # Harm Lexicon
 
-This repository contains [brief description of your project].
+This repo contains code and data for building a **harm / soft-coercion lexicon** and quantifying how corporate language masks power in the TV-series *Severance*. 
 
 ## License
 
